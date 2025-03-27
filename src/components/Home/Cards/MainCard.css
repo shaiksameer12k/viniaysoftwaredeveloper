@@ -1,0 +1,20 @@
+.case_details_card_data_type {
+  background-color: green;
+  color: #ffffff;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  border-radius: 25px;
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 5px 10px;
+}
+.list-group-item:hover {
+  color: green !important;
+}
+/* report table */
+
+.case_details_report_table_label {
+  background-color: #eaeaea !important;
+}
